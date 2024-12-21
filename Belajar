@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pertemuan 1</title>
+</head>
+<body>
+<h1>PARAGRAF PERTAMA</h1>
+<p>ini adalah paragraf.
+    <BR>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    <p>harum maxime magni pariatur?
+<blockquote>
+    <p>
+    apa saja yang kau lakukan kepadaku sampai aku rela menghilang
+    </p> 
+
+</blockquote>
+    <BR>Atque ex quia necessitatibus quod dolorem magni deserunt enim voluptatem. Facilis corporis iusto sint sunt odit vitae.</p>
+<h2>paragraf kedua</h2>
+<blockquote> ini yang kau minta yang berharap kepadaku</blockquote>
+</body>
+</html>
